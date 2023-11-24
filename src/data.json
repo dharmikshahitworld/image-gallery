@@ -1,0 +1,24 @@
+{
+  "images": [
+    { "id": 1, "title": "Image 1", "thumbnail": "https://placekitten.com/200/200", "fullSize": "https://placekitten.com/800/600" },
+    { "id": 2, "title": "Image 2", "thumbnail": "https://placekitten.com/201/201", "fullSize": "https://placekitten.com/801/601" },
+    { "id": 3, "title": "Image 3", "thumbnail": "https://placekitten.com/202/202", "fullSize": "https://placekitten.com/802/602" },
+    { "id": 4, "title": "Image 4", "thumbnail": "https://placekitten.com/203/203", "fullSize": "https://placekitten.com/803/603" },
+    { "id": 5, "title": "Image 5", "thumbnail": "https://placekitten.com/204/204", "fullSize": "https://placekitten.com/804/604" },
+    { "id": 6, "title": "Image 6", "thumbnail": "https://placekitten.com/205/205", "fullSize": "https://placekitten.com/805/605" },
+    { "id": 7, "title": "Image 7", "thumbnail": "https://placekitten.com/206/206", "fullSize": "https://placekitten.com/806/606" },
+    { "id": 8, "title": "Image 8", "thumbnail": "https://placekitten.com/207/207", "fullSize": "https://placekitten.com/807/607" },
+    { "id": 9, "title": "Image 9", "thumbnail": "https://placekitten.com/208/208", "fullSize": "https://placekitten.com/808/608" },
+    { "id": 10, "title": "Image 10", "thumbnail": "https://placekitten.com/209/209", "fullSize": "https://placekitten.com/809/609" },
+    { "id": 11, "title": "Image 11", "thumbnail": "https://placekitten.com/210/210", "fullSize": "https://placekitten.com/810/610" },
+    { "id": 12, "title": "Image 12", "thumbnail": "https://placekitten.com/211/211", "fullSize": "https://placekitten.com/811/611" },
+    { "id": 13, "title": "Image 13", "thumbnail": "https://placekitten.com/212/212", "fullSize": "https://placekitten.com/812/612" },
+    { "id": 14, "title": "Image 14", "thumbnail": "https://placekitten.com/213/213", "fullSize": "https://placekitten.com/813/613" },
+    { "id": 15, "title": "Image 15", "thumbnail": "https://placekitten.com/214/214", "fullSize": "https://placekitten.com/814/614" },
+    { "id": 16, "title": "Image 16", "thumbnail": "https://placekitten.com/215/215", "fullSize": "https://placekitten.com/815/615" },
+    { "id": 17, "title": "Image 17", "thumbnail": "https://placekitten.com/216/216", "fullSize": "https://placekitten.com/816/616" },
+    { "id": 18, "title": "Image 18", "thumbnail": "https://placekitten.com/217/217", "fullSize": "https://placekitten.com/817/617" },
+    { "id": 19, "title": "Image 19", "thumbnail": "https://placekitten.com/218/218", "fullSize": "https://placekitten.com/818/618" },
+    { "id": 20, "title": "Image 20", "thumbnail": "https://placekitten.com/219/219", "fullSize": "https://placekitten.com/819/619" }
+  ]
+}

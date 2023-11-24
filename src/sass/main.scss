@@ -1,0 +1,22 @@
+
+@import './variables.scss';
+@import 'bootstrap/dist/css/bootstrap.min.css';
+
+.nav-tabs {
+  border: none;
+  .nav-item {
+      border: 2px solid $success;
+      border-radius: 50rem;
+      margin: 0 .5rem;
+      .nav-link {
+          color: black;
+          background: none;
+          border: none;
+          &.active {
+              color: white;
+              background: $success;
+              border-radius: 50rem;
+          }
+      }
+  }
+}
